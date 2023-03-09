@@ -1,3 +1,3 @@
-# starters-demo
+# JavaScript Bootcamp
 
-This is a test repository for starters
+Welcome to the JavaScript Bootcamp

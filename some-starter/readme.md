@@ -1,3 +1,3 @@
-# This is some starter
+# JavaScript Scopes
 
-"Some Starter" is something that I want to test
+Let's learn about the role and behavior of scope in JavaScript.
