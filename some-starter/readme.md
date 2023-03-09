@@ -1,1 +1,1 @@
-Let's learn about the role and behavior of scope in JavaScript.
+This is the more specific readme.md file describing the "some-starter" project

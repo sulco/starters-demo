@@ -1,1 +1,1 @@
-Welcome to the JavaScript Bootcamp
+This is the root readme.md file describing the repository
